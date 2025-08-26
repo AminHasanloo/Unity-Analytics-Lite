@@ -1,0 +1,19 @@
+{
+  "name": "com.aminhasanloo.analytics-lite",
+  "displayName": "Analytics Lite",
+  "version": "0.1.0",
+  "description": "Lightweight event logger for Unity (offline-first batching).",
+  "unity": "2020.3",
+  "author": {
+    "name": "Amin Hasanloo"
+  },
+  "keywords": ["analytics", "events", "logger"],
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Demo Scene & Starter",
+      "description": "Minimal starter script for logging events.",
+      "path": "Runtime"
+    }
+  ]
+}
